@@ -1,0 +1,1 @@
+My first project in the odin project. Im only using html and css.
